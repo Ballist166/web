@@ -19,3 +19,16 @@
 
 [Oтчеты о дефекте  формате PDF](https://github.com/Ballist166/web/blob/main/Отчеты%20о%20дефектах.pdf)
 
+## Отчеты о дефектах для следующих Features: Cart Management и Order Management
+[Oтчеты о дефекте в формате XLSX](https://github.com/Ballist166/web/blob/main/Отчёты%20о%20дефектах.xlsx)
+
+## Перехватываем и изменяем трафик с помощью Charles Proxy
+[Изменение запроса количества товаров](https://github.com/Ballist166/web/blob/main/Измменение%20запроса%20количества%20товаров.mov)
+
+[Изменение статус кода в ответе](https://github.com/Ballist166/web/blob/main/Cтатус-код%20403.mov)
+
+[Mapped from remote URL](https://github.com/Ballist166/web/blob/main/Mapped%20from%20remote%20URL.mov)
+
+[Mapped to local file](https://github.com/Ballist166/web/blob/main/Mapped%20to%20local%20file.mov)
+
+[Подмена товара при удалении](https://github.com/Ballist166/web/blob/main/Подмена%20товара%20при%20удалении.mov)
